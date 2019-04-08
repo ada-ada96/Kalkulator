@@ -5,13 +5,10 @@ def dodawanie(a, b):
 	wynik = a + b
 return wynik
 
-a = int(input())
-b = int(input())
+x = int(input())
+y = int(input())
 
-dodawanie(a, b)
+dodawanie(x, y)
 
 print("koniec" )
 print("Papa")
-
-def dodaj(a, b, c):
-	return
