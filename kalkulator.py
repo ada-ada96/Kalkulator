@@ -1,3 +1,6 @@
+def get_help:
+	print("help")
+
 print("Witaj w programie kalkulator")
 print("Podaj dwie liczby do kalkulatora")
 
@@ -11,3 +14,4 @@ b = int(input())
 dodawanie(a, b)
 
 print("koniec")
+get_help()
