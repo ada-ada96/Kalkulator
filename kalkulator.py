@@ -9,3 +9,5 @@ a = int(input())
 b = int(input())
 
 dodawanie(a, b)
+
+print("koniec")
