@@ -10,4 +10,6 @@ b = int(input())
 
 dodawanie(a, b)
 
-print("koniec")
+
+print("koniec" )
+print("Papa")
