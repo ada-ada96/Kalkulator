@@ -10,6 +10,8 @@ b = int(input())
 
 dodawanie(a, b)
 
-
 print("koniec" )
 print("Papa")
+
+def dodaj(a, b, c):
+	return
