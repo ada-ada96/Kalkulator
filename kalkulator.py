@@ -8,10 +8,15 @@ def dodawanie(a, b):
 	wynik = a + b
 return wynik
 
-a = int(input())
-b = int(input())
+x = int(input())
+y = int(input())
 
-dodawanie(a, b)
+dodawanie(x, y)
 
+<<<<<<< HEAD
 print("koniec")
 get_help()
+=======
+print("koniec" )
+print("Papa")
+>>>>>>> zmiana_funkcji_dodawania
